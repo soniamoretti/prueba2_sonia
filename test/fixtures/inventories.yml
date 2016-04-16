@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  item: MyString
+  item_serial_num: 1
+  size: 1
+  note: MyText
+
+two:
+  item: MyString
+  item_serial_num: 1
+  size: 1
+  note: MyText
